@@ -131,6 +131,33 @@ p.note { display: none; }
 <br><p>タイ観光</p>
 <h2><span class="yellow">13日はタイ最終日、バンコクの街も見納め！</span></h2>
 <h2><span class="yellow">早起きして市内の朝焼けなど見てみました</span></h2>
+<a href="20240119_001.JPG" data-lightbox="abc"><img src="20240119_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240119_002.JPG" data-lightbox="abc"><img src="20240119_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240119_003.JPG" data-lightbox="abc"><img src="20240119_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240119_004.JPG" data-lightbox="abc"><img src="20240119_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240119_005.JPG" data-lightbox="abc"><img src="20240119_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240119_006.JPG" data-lightbox="abc"><img src="20240119_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240119_007.JPG" data-lightbox="abc"><img src="20240119_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240119_008.JPG" data-lightbox="abc"><img src="20240119_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240119_009.JPG" data-lightbox="abc"><img src="20240119_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240119_010.JPG" data-lightbox="abc"><img src="20240119_010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240119_011.JPG" data-lightbox="abc"><img src="20240119_011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240119_012.JPG" data-lightbox="abc"><img src="20240119_012.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240119_013.JPG" data-lightbox="abc"><img src="20240119_013.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240119_014.JPG" data-lightbox="abc"><img src="20240119_014.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240119_015.JPG" data-lightbox="abc"><img src="20240119_015.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240119_016.JPG" data-lightbox="abc"><img src="20240119_016.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240119_017.JPG" data-lightbox="abc"><img src="20240119_017.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240119_018.JPG" data-lightbox="abc"><img src="20240119_018.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240119_019.JPG" data-lightbox="abc"><img src="20240119_019.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240119_020.JPG" data-lightbox="abc"><img src="20240119_020.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240119_021.JPG" data-lightbox="abc"><img src="20240119_021.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240119_022.JPG" data-lightbox="abc"><img src="20240119_022.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240119_023.JPG" data-lightbox="abc"><img src="20240119_023.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240119_024.JPG" data-lightbox="abc"><img src="20240119_024.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240119_025.JPG" data-lightbox="abc"><img src="20240119_025.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240119_026.JPG" data-lightbox="abc"><img src="20240119_026.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240119_027.JPG" data-lightbox="abc"><img src="20240119_027.JPG" alt="サンプル画像" width="900" /></a>
 
 <br>
 <h2><span class="yellow">タイに２週間いると完全に気候順化しますね、日本の寒さがこたえます<br>社会復帰に時間がかかりそうだと思いきや<br>成田から宇都宮までの運転で、完全に日本を思い出しました</span></h2>
