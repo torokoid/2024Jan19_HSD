@@ -71,7 +71,7 @@ left:0;
 z-index:-1;
 width:100%;
 height:100vh;
-background:url(20240113_013.JPG) center/cover no-repeat;
+background:url(20240119_025.JPG) center/cover no-repeat;
 -webkit-background-size:cover;/*Android4*/
 }
 
@@ -116,20 +116,21 @@ p.note { display: none; }
 
 
 <!--QRコードの挿入例-->
-<p align="left"> <img src="QR_Thailand_15.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
+<p align="left"> <img src="QR_2024JanHSD.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="left">!!! 2024/01/13 、タイ最終日、バンコクから日本に帰国 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2024/01/19 、Honda水泳同好会(HSD)新年会&鹿子木さん定年祝い !!!</marquee></span></h1>
 
+<!--
 <div style="background-color:rgb(255,255,255,0.5);">
 <p class="topicpath"><a href="https://torokoid.github.io/2024Jan_Thailand/">Thailand</a>><a href="https://torokoid.github.io/2024Jan_Thailand_2/">Thailand_2</a>><a href="https://torokoid.github.io/2024Jan_Thailand_3/">Thailand_3</a>><a href="https://torokoid.github.io/2024Jan_Thailand__4/">Thailand__4</a>><a href="https://torokoid.github.io/2024Jan_Thailand__5/">Thailand__5</a>><a href="https://torokoid.github.io/2024Jan_Thailand__6/">Thailand__6</a>><a href="https://torokoid.github.io/2024Jan_Thailand__7/">Thailand__7</a>><a href="https://torokoid.github.io/2024Jan_Thailand__8/">Thailand__8</a>><a href="https://torokoid.github.io/2024Jan_Thailand__9/">Thailand__9</a>><a href="https://torokoid.github.io/2024Jan_Thailand_10/">Thailand_10</a>><a href="https://torokoid.github.io/2024Jan_Thailand_11/">Thailand_11</a>>Thailand_12</p></div>
-
+-->
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <!--ここから下が、本体部分-->
-<br><p>タイ観光</p>
-<h2><span class="yellow">13日はタイ最終日、バンコクの街も見納め！</span></h2>
+<br><p>新年会写真集</p>
+<h2><span class="yellow">宇都宮駅東口、@博多ダイニング よかろうもん！</span></h2>
 <h2><span class="yellow">早起きして市内の朝焼けなど見てみました</span></h2>
 <a href="20240119_001.JPG" data-lightbox="abc"><img src="20240119_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240119_002.JPG" data-lightbox="abc"><img src="20240119_002.JPG" alt="サンプル画像" width="900" /></a>
@@ -160,7 +161,7 @@ p.note { display: none; }
 <a href="20240119_027.JPG" data-lightbox="abc"><img src="20240119_027.JPG" alt="サンプル画像" width="900" /></a>
 
 <br>
-<h2><span class="yellow">タイに２週間いると完全に気候順化しますね、日本の寒さがこたえます<br>社会復帰に時間がかかりそうだと思いきや<br>成田から宇都宮までの運転で、完全に日本を思い出しました</span></h2>
+<h2><span class="yellow">懐かしい顔ぶれが集まりました<br>プールで見かけている顔もありましたが、超久しぶりのメンバーも<br>又の再会を楽しみにしています！</span></h2>
 
 
 
@@ -185,7 +186,7 @@ p.note { display: none; }
 
 <!-- フッタ -->
 <footer>
-<p>Copyright 2024/01/13 S.Hada</p>
+<p>Copyright 2024/01/20 S.Hada</p>
 </footer>
 
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->
