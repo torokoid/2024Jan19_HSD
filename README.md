@@ -131,7 +131,7 @@ p.note { display: none; }
 <!--ここから下が、本体部分-->
 <br><p>新年会写真集</p>
 <h2><span class="yellow">宇都宮駅東口、@博多ダイニング よかろうもん！</span></h2>
-<h2><span class="yellow">早起きして市内の朝焼けなど見てみました</span></h2>
+
 <a href="20240119_001.JPG" data-lightbox="abc"><img src="20240119_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240119_002.JPG" data-lightbox="abc"><img src="20240119_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240119_003.JPG" data-lightbox="abc"><img src="20240119_003.JPG" alt="サンプル画像" width="900" /></a>
