@@ -120,7 +120,7 @@ p.note { display: none; }
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="left">!!! 2024/01/19 、Honda水泳同好会(HSD)新年会&鹿子木さん定年祝い !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2024/01/19 、ホンダ水泳同好会(HSD)新年会 & 鹿子木さん定年祝い !!!</marquee></span></h1>
 
 <!--
 <div style="background-color:rgb(255,255,255,0.5);">
