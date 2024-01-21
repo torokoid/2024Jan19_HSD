@@ -122,7 +122,7 @@ p.note { display: none; }
 <!--流れ文字の挿入例-->
 <h1><span class="yellow"><marquee behavior="left">!!! 2024/01/19 、ホンダ水泳同好会(HSD)新年会 & 鹿子木さんご卒業祝い !!!</marquee></span></h1>
 
-<!--
+<!--上段にパンクズリストを入れる時の例
 <div style="background-color:rgb(255,255,255,0.5);">
 <p class="topicpath"><a href="https://torokoid.github.io/2024Jan_Thailand/">Thailand</a>><a href="https://torokoid.github.io/2024Jan_Thailand_2/">Thailand_2</a>><a href="https://torokoid.github.io/2024Jan_Thailand_3/">Thailand_3</a>><a href="https://torokoid.github.io/2024Jan_Thailand__4/">Thailand__4</a>><a href="https://torokoid.github.io/2024Jan_Thailand__5/">Thailand__5</a>><a href="https://torokoid.github.io/2024Jan_Thailand__6/">Thailand__6</a>><a href="https://torokoid.github.io/2024Jan_Thailand__7/">Thailand__7</a>><a href="https://torokoid.github.io/2024Jan_Thailand__8/">Thailand__8</a>><a href="https://torokoid.github.io/2024Jan_Thailand__9/">Thailand__9</a>><a href="https://torokoid.github.io/2024Jan_Thailand_10/">Thailand_10</a>><a href="https://torokoid.github.io/2024Jan_Thailand_11/">Thailand_11</a>>Thailand_12</p></div>
 -->
@@ -161,6 +161,7 @@ p.note { display: none; }
 <a href="20240119_027.JPG" data-lightbox="abc"><img src="20240119_027.JPG" alt="サンプル画像" width="900" /></a>
 
 <br>
+<!--YouTube動画のリンク例-->
 <h2><span class="yellow"><a href="https://youtube.com/shorts/3fxcP6xGUt0" target="_blank">新井さん奥様撮影動画リンク</a></span></h2>
 
 
@@ -168,11 +169,6 @@ p.note { display: none; }
 <h2><span class="yellow">懐かしい顔ぶれが集まりました<br>プールで見る顔ブレもありましたが、超久しぶりのメンバーも元気そうです<br>では、又の再会を楽しみにしています！</span></h2>
 
 
-
-<!--
-<br><br><p>以下写真集！</p>
-<p>1月2日はバンコクからパタヤまでお出かけしました。</p>
--->
 
 
 
