@@ -161,7 +161,7 @@ p.note { display: none; }
 <a href="20240119_027.JPG" data-lightbox="abc"><img src="20240119_027.JPG" alt="サンプル画像" width="900" /></a>
 
 <br>
-<h2><a href="https://youtube.com/shorts/3fxcP6xGUt0" target="_blank">新井さん奥様撮影動画リンク</a></h2>
+<h2><span class="yellow"><a href="https://youtube.com/shorts/3fxcP6xGUt0" target="_blank">新井さん奥様撮影動画リンク</a></span></h2>
 
 
 <br>
