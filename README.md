@@ -122,10 +122,10 @@ p.note { display: none; }
 <!--流れ文字の挿入例-->
 <h1><span class="yellow"><marquee behavior="left">!!! 2024/01/19 、ホンダ水泳同好会(HSD)新年会 & 鹿子木さんご卒業祝い !!!</marquee></span></h1>
 
-<!--上段にパンクズリストを入れる時の例
+<!--上段にパンクズリストを入れる時の例-->
 <div style="background-color:rgb(255,255,255,0.5);">
-<p class="topicpath"><a href="https://torokoid.github.io/2024Jan_Thailand/">Thailand</a>><a href="https://torokoid.github.io/2024Jan_Thailand_2/">Thailand_2</a>><a href="https://torokoid.github.io/2024Jan_Thailand_3/">Thailand_3</a>><a href="https://torokoid.github.io/2024Jan_Thailand__4/">Thailand__4</a>><a href="https://torokoid.github.io/2024Jan_Thailand__5/">Thailand__5</a>><a href="https://torokoid.github.io/2024Jan_Thailand__6/">Thailand__6</a>><a href="https://torokoid.github.io/2024Jan_Thailand__7/">Thailand__7</a>><a href="https://torokoid.github.io/2024Jan_Thailand__8/">Thailand__8</a>><a href="https://torokoid.github.io/2024Jan_Thailand__9/">Thailand__9</a>><a href="https://torokoid.github.io/2024Jan_Thailand_10/">Thailand_10</a>><a href="https://torokoid.github.io/2024Jan_Thailand_11/">Thailand_11</a>>Thailand_12</p></div>
--->
+<p class="topicpath">2024Jan19_新年会><a href="https://torokoid.github.io/2024Sep20_HSD/">2024Sep20_残暑会</a></p></div>
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <!--ここから下が、本体部分-->
